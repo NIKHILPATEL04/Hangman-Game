@@ -1,4 +1,6 @@
-Interactive Hangman Simulation in C
+****Interactive Hangman Simulation in C****
+
+
 NIKHIL PATEL 
 
 
